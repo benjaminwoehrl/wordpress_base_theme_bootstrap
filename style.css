@@ -1,0 +1,18 @@
+/*
+Theme Name: wordpress_base_theme_bootstrap
+Theme URI: https://github.com/benjaminwoehrl
+Author: Benjamin Woehrl
+Author URI: http://www.benjaminwoehrl.de
+Description: wordpress_base_theme_bootstrap
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:
+Text Domain: wordpress_base_theme_bootstrap
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+@import url('css/bootstrap.min.css');
+@import url('css/custom.css');
